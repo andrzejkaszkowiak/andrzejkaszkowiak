@@ -1,10 +1,10 @@
 # Andrzej Kaszkowiak
 
-**Contact info:**
-- [andrzej@kaszkowiak.com](mailto://andrzej@kaszkowiak.com)
-- [+48883771199](tel:+48883771199)
-- [in/andrzejkaszkowiak](https://linkedin.com/in/andrzejkaszkowiak)
-- [gh/andrzejkaszkowiak](https://github.com/andrzejkaszkowiak)
+**Contact**
+
+- Email: [andrzej@kaszkowiak.com](mailto://andrzej@kaszkowiak.com)
+- LinkedIn: [andrzejkaszkowiak](https://linkedin.com/in/andrzejkaszkowiak)
+- Github: [andrzejkaszkowiak](https://github.com/andrzejkaszkowiak)
 
 ## Experience
 
@@ -86,7 +86,6 @@
 	_Tech: C++, Perl, JavaScript._
 
 ## Additional activities
-
 
 ### 10.2016 - 12.2017 • [Code for Poland](https://kodujdlapolski.pl/)
 
